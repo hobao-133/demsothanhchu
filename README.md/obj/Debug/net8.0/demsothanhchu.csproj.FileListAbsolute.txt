@@ -1,0 +1,14 @@
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\bin\Debug\net8.0\demsothanhchu.exe
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\bin\Debug\net8.0\demsothanhchu.deps.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\bin\Debug\net8.0\demsothanhchu.runtimeconfig.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\bin\Debug\net8.0\demsothanhchu.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\bin\Debug\net8.0\demsothanhchu.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.AssemblyInfoInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.AssemblyInfo.cs
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.csproj.CoreCompileInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\refint\demsothanhchu.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\demsothanhchu.genruntimeconfig.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Bài 4\Bài 4b Switch-case\Bài tập\demsothanhchu\obj\Debug\net8.0\ref\demsothanhchu.dll
